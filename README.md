@@ -1,5 +1,3 @@
-
-
 ---
 
 ## 🌿 FarmScape Ventures – Blog Website
